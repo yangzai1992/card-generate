@@ -5,4 +5,4 @@
 - jdk-17.0.6
 
 ## 演示图
-![Image text](doc/img/演示图1.png)
+![Image text](https://github.com/yangzai1992/card-generate/blob/main/doc/img/%E6%BC%94%E7%A4%BA%E5%9B%BE1.png)
